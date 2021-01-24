@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.fmsirvent.ParallaxEverywhere.Sample", "Sample\com.fmsirvent.ParallaxEverywhere.Sample.csproj", "{71F1A046-10F2-4B29-B486-CB772C9996F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.fmsirvent.ParallaxEverywhere.Library", "Library\com.fmsirvent.ParallaxEverywhere.Library.csproj", "{03219C1A-F1C6-4B58-BCF3-ADE0593F7865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F1A046-10F2-4B29-B486-CB772C9996F7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{03219C1A-F1C6-4B58-BCF3-ADE0593F7865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03219C1A-F1C6-4B58-BCF3-ADE0593F7865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03219C1A-F1C6-4B58-BCF3-ADE0593F7865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03219C1A-F1C6-4B58-BCF3-ADE0593F7865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46C4170F-9A2B-4DB8-A611-CBB1E1B78AF1}
+	EndGlobalSection
+EndGlobal
